@@ -36,8 +36,15 @@ python run.py
 this repository is only for reproduce results in the paper, later version will be released soon based on LibSignal project with compacted and flexible formation.
 
 ### For your reference
-Paper link:https://arxiv.org/abs/2304.10722
 
-LibSignal project: https://darl-libsignal.github.io
+[Paper link](https://arxiv.org/abs/2304.10722), [LibSignal project](https://darl-libsignal.github.io) [Tutorial session of LibSignal project](https://darl-libsignal.github.io/itsc2023.html)
 
-Upcoming tutorial session of LibSignal project:  https://darl-libsignal.github.io/itsc2023.html. We would be more than happy to see you there.
+```
+@inproceedings{mei2023reinforcement,
+  title={Reinforcement learning approaches for traffic signal control under missing data},
+  author={Mei, Hao and Li, Junxian and Shi, Bin and Wei, Hua},
+  booktitle={Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence},
+  pages={2261--2269},
+  year={2023}
+}
+```
